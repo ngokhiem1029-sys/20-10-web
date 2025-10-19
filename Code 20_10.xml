@@ -1,0 +1,732 @@
+<?xml version='1.0' encoding='UTF-8' ?><!--
+Created by Alight Motion (http://alightmotion.com)
+Exported: 2025-10-19 12:24 PM
+5.0.270.1002578 (1002351)
+6dff462 (11 thg 4, 2024 19:47:55)
+-->
+<scene title="Dự án mới 1" width="1440" height="1080" exportWidth="1440" exportHeight="1080" precompose="dynamicResolution" bgcolor="#ffffffff" totalTime="17650" fps="60" modifiedTime="1760851445967" amver="1002351" ffver="106" am="com.alightcreative.motioo/5.0.270.1002578" amplatform="android" retime="freeze" retimeAdaptFPS="false">
+  <media uri="content://media/external/video/media/1000001006" filename="0deb7a66ebff2cc7435e68246b5d847d.mp4" title="0deb7a66ebff2cc7435e68246b5d847d.mp4" type="video/mp4" duration="29100000" size="1640464" fps="0.30" orientation="0" infoUpdated="1760851423238" width="576" height="1024" />
+  <media uri="content://media/external/images/media/1000001193" filename="Mặt bàn.png" title="Mặt bàn.png" type="image/png" size="2516956" orientation="0" infoUpdated="1760851423238" width="1920" height="1080" />
+  <media uri="content://media/external/images/media/1000001981" filename="Dự án mới [77DDCD4].png" title="Dự án mới [77DDCD4].png" type="image/png" size="104096" orientation="0" infoUpdated="1760851423238" width="1080" height="1350" />
+  <media uri="content://media/external/video/media/1000001135" filename="bóng cây 2 overlay.mp4" title="bóng cây 2 overlay.mp4" type="video/mp4" duration="4949300" size="10344523" fps="0.30" orientation="0" infoUpdated="1760851423238" width="1280" height="720" />
+  <audio id="165" startTime="0" endTime="17649" src="content://media/external/video/media/1000001006" outTime="17649" mediaFillMode="fill">
+    <gain>
+      <kf t="0.955182" v="1.000000" />
+      <kf t="0.999547" v="0.000000" />
+    </gain>
+  </audio>
+  <embedScene id="166" startTime="0" endTime="9365" fillType="intrinsic" outTime="9365" mediaFillMode="fill">
+    <transform>
+      <location value="713.297363,1648.650391,0.000000" />
+    </transform>
+    <fillColor value="#ff000000" />
+    <scene title="" width="2454" height="4017" exportWidth="2454" exportHeight="4017" precompose="dynamicResolution" bgcolor="#00000000" totalTime="9365" fps="60" modifiedTime="0" amver="1002351" ffver="106" am="com.alightcreative.motioo/5.0.270.1002578" amplatform="android" retime="off" retimeAdaptFPS="false">
+      <shape id="89" label="Chữ nhật 1" startTime="0" endTime="9365" fillType="color" mediaFillMode="fill" parent="101" s=".rect">
+        <transform>
+          <location value="-6.702637,1108.650391,0.000000" />
+          <scale value="7.200000,7.200000" />
+        </transform>
+        <effect id="com.alightcreative.effects.checker2" locallyApplied="true">
+          <property name="amount" type="float" value="28.900000" />
+          <property name="stretch" type="vec2" value="1.000000,1.000000" />
+          <property name="color" type="color" value="#ffffe9fa" />
+          <property name="punchout" type="bool" value="false" />
+          <property name="angle" type="float" value="0.000000" />
+          <property name="screenSpace" type="bool" value="false" />
+        </effect>
+        <property name="size" type="vec2" value="169.000000,279.000000" />
+      </shape>
+      <embedScene id="100" label="Nhóm 2" startTime="0" endTime="9365" fillType="intrinsic" mediaFillMode="fill" parent="101">
+        <transform>
+          <location value="-6.702637,774.729492,0.000000" />
+          <scale value="0.520000,0.520000" />
+        </transform>
+        <fillColor value="#ff000000" />
+        <effect id="com.alightcreative.effects.repeat.scatter" locallyApplied="true">
+          <property name="count" type="float" value="12.000000" />
+          <property name="radius" type="float" value="1700.000000" />
+          <property name="evolution" type="float" value="0.000000" />
+          <property name="scatterSeed" type="float" value="0.070000" />
+          <property name="offset" type="vec2">
+            <kf t="0.000854" v="1256.000000,0.000000" />
+            <kf t="0.999253" v="-831.000000,0.000000" />
+          </property>
+          <property name="angle" type="float">
+            <kf t="0.000854" v="0.000000" />
+            <kf t="0.999253" v="394.000000" />
+          </property>
+          <property name="scale" type="float" value="1.000000" />
+          <property name="alpha" type="float" value="1.000000" />
+          <property name="fillColor" type="color" value="#ff2d1ef6" />
+          <property name="blend" type="float" value="0.000000" />
+          <property name="colorAltCopies" type="bool" value="false" />
+          <property name="start" type="float" value="0.000000" />
+          <property name="end" type="float" value="1.000000" />
+          <property name="phase" type="float" value="0.000000" />
+          <property name="easeIn" type="float" value="0.000000" />
+          <property name="easeOut" type="float" value="0.000000" />
+          <property name="overlap" type="float" value="0.000000" />
+          <property name="shape" type="int" value="0" />
+          <property name="invert" type="bool" value="false" />
+          <property name="randomOrder" type="bool" value="false" />
+          <property name="seed" type="float" value="0.000000" />
+        </effect>
+        <effect id="com.alightcreative.effects.pulseopacity2" locallyApplied="true">
+          <property name="freq" type="float" value="1.000000" />
+          <property name="strength" type="float" value="0.530000" />
+          <property name="phase" type="float" value="0.000000" />
+          <property name="type" type="int" value="0" />
+        </effect>
+        <shadow direction="outside">
+          <color value="#ffffbef0" />
+          <opacity value="0.390000" />
+          <offset value="3.000000,20.000000" />
+        </shadow>
+        <scene title="" width="1440" height="1080" exportWidth="1440" exportHeight="1080" precompose="dynamicResolution" bgcolor="#00000000" totalTime="9365" fps="60" modifiedTime="0" amver="1002351" ffver="106" am="com.alightcreative.motioo/5.0.270.1002578" amplatform="android" retime="off" retimeAdaptFPS="false">
+          <shape id="98" label="Vòng tròn 1" startTime="0" endTime="9365" fillType="color" mediaFillMode="fill" s=".circle">
+            <transform>
+              <location value="720.000000,540.000000,0.000000" />
+            </transform>
+            <property name="size" type="vec2" value="100.000000,100.000000" />
+          </shape>
+          <shape id="99" label="Hình dạng 1" startTime="0" endTime="9365" fillType="color" mediaFillMode="fill">
+            <transform>
+              <location value="720.000000,550.099609,0.000000" />
+              <scale value="0.232451,0.232451" />
+            </transform>
+            <fillColor value="#ffff4444" />
+            <path d="M -318.34653 -110.82674C -318.34653 -198.7357, -247.08221 -270.0, -159.17326 -270.0C -92.79996 -270.0, -20.203556 -221.45805, 1.9132335 -158.51976C 24.534714 -218.87631, 90.91831 -270.0, 159.17326 -270.0C 247.08223 -270.0, 318.34653 -198.7357, 318.34653 -110.82674C 318.34653 -36.942245, 211.0805 90.0, -3.451499 270.0C -213.38152 90.0, -318.34653 -36.942245, -318.34653 -110.82674Z" />
+          </shape>
+        </scene>
+      </embedScene>
+      <shape id="115" label="Chữ nhật 2" startTime="800" endTime="9365" fillType="color" mediaFillMode="fill" parent="101" s=".rect">
+        <transform>
+          <location value="-1.000000,543.792175,0.000000" />
+          <scale value="1.115302,1.115302" />
+        </transform>
+        <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+          <property name="inTime" type="float" value="0.800000" />
+          <property name="outTime" type="float" value="0.000000" />
+        </effect>
+        <effect id="com.alightcreative.effects.roughenedges" locallyApplied="true">
+          <property name="strength" type="float" value="0.609000" />
+          <property name="evolution" type="float" value="0.000000" />
+          <property name="detail" type="float" value="1.000000" />
+          <property name="seed" type="float" value="0.000000" />
+          <property name="octaves" type="float" value="6.000000" />
+        </effect>
+        <property name="size" type="vec2" value="464.000000,283.000000" />
+      </shape>
+      <shape id="117" label="Chữ nhật 2 Copy" startTime="800" endTime="9365" fillType="color" mediaFillMode="fill" parent="101" s=".rect">
+        <transform>
+          <location value="0.000000,543.792175,0.000000" />
+        </transform>
+        <effect id="com.alightcreative.effects.stripes" locallyApplied="true">
+          <property name="amount" type="float" value="34.799999" />
+          <property name="width" type="float" value="0.070000" />
+          <property name="angle" type="float" value="0.000000" />
+          <property name="phase" type="float" value="0.000000" />
+          <property name="color" type="color" value="#ff9f2382" />
+          <property name="punchout" type="bool" value="false" />
+          <property name="smoothing" type="float" value="0.043000" />
+          <property name="screenSpace" type="bool" value="false" />
+        </effect>
+        <effect id="com.alightcreative.effects.roughenedges" locallyApplied="true">
+          <property name="strength" type="float" value="0.609000" />
+          <property name="evolution" type="float" value="0.000000" />
+          <property name="detail" type="float" value="1.000000" />
+          <property name="seed" type="float" value="0.000000" />
+          <property name="octaves" type="float" value="6.000000" />
+        </effect>
+        <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+          <property name="inTime" type="float" value="0.800000" />
+          <property name="outTime" type="float" value="0.000000" />
+        </effect>
+        <property name="size" type="vec2" value="464.000000,283.000000" />
+      </shape>
+      <embedScene id="96" label="Nhóm 1" startTime="0" endTime="9365" fillType="intrinsic" mediaFillMode="fill" parent="101">
+        <transform>
+          <location value="-6.702637,0.000000,0.000000" />
+        </transform>
+        <fillColor value="#ff000000" />
+        <shadow direction="outside">
+          <opacity value="0.220000" />
+          <offset value="3.000000,20.000000" />
+        </shadow>
+        <scene title="" width="2454" height="1080" exportWidth="2454" exportHeight="1080" precompose="dynamicResolution" bgcolor="#00000000" totalTime="9365" fps="60" modifiedTime="0" amver="1002351" ffver="106" am="com.alightcreative.motioo/5.0.270.1002578" amplatform="android" retime="off" retimeAdaptFPS="false">
+          <text id="91" label="20/10 Copy" startTime="0" endTime="9365" fillType="color" speed="0.750000" mediaFillMode="fill" size="80.000000" font="googlefonts?name=Piedra&amp;weight=400" wrapWidth="1427" align="center">
+            <transform>
+              <location value="939.000000,540.000000,0.000000" />
+              <scale>
+                <kf t="0.183769" v="1.316048,1.316048" e="elastic 0.2750772 1.0 0.14296028 0.287691" />
+                <kf t="0.001175" v="0.000701,0.000701" />
+              </scale>
+              <rotation>
+                <kf t="0.183769" v="0.000000" e="elastic 0.2750772 1.0 0.14296028 0.287691" />
+                <kf t="0.001175" v="45.000000" />
+              </rotation>
+            </transform>
+            <fillColor value="#ffff7fe1" />
+            <content>2</content>
+          </text>
+          <text id="92" label="20/10 Copy 2" startTime="50" endTime="9365" fillType="color" speed="0.750000" mediaFillMode="fill" size="80.000000" font="googlefonts?name=Piedra&amp;weight=400" wrapWidth="1427" align="center">
+            <transform>
+              <location value="1104.700195,540.000000,0.000000" />
+              <scale>
+                <kf t="0.184756" v="1.316048,1.316048" e="elastic 0.2750772 1.0 0.14296028 0.287691" />
+                <kf t="0.001181" v="0.000701,0.000701" />
+              </scale>
+              <rotation>
+                <kf t="0.184756" v="0.000000" e="elastic 0.2750772 1.0 0.14296028 0.287691" />
+                <kf t="0.001181" v="45.000000" />
+              </rotation>
+            </transform>
+            <fillColor value="#ffff7fe1" />
+            <content>0</content>
+          </text>
+          <text id="93" label="20/10 Copy 3" startTime="100" endTime="9365" fillType="color" speed="0.750000" mediaFillMode="fill" size="80.000000" font="googlefonts?name=Piedra&amp;weight=400" wrapWidth="1427" align="center">
+            <transform>
+              <location value="1247.944336,540.000000,0.000000" />
+              <scale>
+                <kf t="0.185753" v="1.316048,1.316048" e="elastic 0.2750772 1.0 0.14296028 0.287691" />
+                <kf t="0.001187" v="0.000701,0.000701" />
+              </scale>
+              <rotation>
+                <kf t="0.185753" v="0.000000" e="elastic 0.2750772 1.0 0.14296028 0.287691" />
+                <kf t="0.001187" v="45.000000" />
+              </rotation>
+            </transform>
+            <fillColor value="#ffff7fe1" />
+            <content>/</content>
+          </text>
+          <text id="94" label="20/10 Copy 4" startTime="150" endTime="9365" fillType="color" speed="0.750000" mediaFillMode="fill" size="80.000000" font="googlefonts?name=Piedra&amp;weight=400" wrapWidth="1427" align="center">
+            <transform>
+              <location value="1365.543945,540.000000,0.000000" />
+              <scale>
+                <kf t="0.186761" v="1.316048,1.316048" e="elastic 0.2750772 1.0 0.14296028 0.287691" />
+                <kf t="0.001194" v="0.000701,0.000701" />
+              </scale>
+              <rotation>
+                <kf t="0.186761" v="0.000000" e="elastic 0.2750772 1.0 0.14296028 0.287691" />
+                <kf t="0.001194" v="45.000000" />
+              </rotation>
+            </transform>
+            <fillColor value="#ffff7fe1" />
+            <content>1</content>
+          </text>
+          <text id="95" label="20/10 Copy 5" startTime="200" endTime="9365" fillType="color" speed="0.750000" mediaFillMode="fill" size="80.000000" font="googlefonts?name=Piedra&amp;weight=400" wrapWidth="1427" align="center">
+            <transform>
+              <location value="1515.793945,540.000000,0.000000" />
+              <scale>
+                <kf t="0.187780" v="1.316048,1.316048" e="elastic 0.2750772 1.0 0.14296028 0.287691" />
+                <kf t="0.001200" v="0.000701,0.000701" />
+              </scale>
+              <rotation>
+                <kf t="0.187780" v="0.000000" e="elastic 0.2750772 1.0 0.14296028 0.287691" />
+                <kf t="0.001200" v="45.000000" />
+              </rotation>
+            </transform>
+            <fillColor value="#ffff7fe1" />
+            <content>0</content>
+          </text>
+        </scene>
+      </embedScene>
+      <text id="97" startTime="0" endTime="9365" fillType="color" mediaFillMode="fill" parent="101" size="18.000000" font="googlefonts?name=Sniglet&amp;weight=800" wrapWidth="1375" align="center">
+        <transform>
+          <location value="0.000000,171.961426,0.000000" />
+          <scale>
+            <kf t="0.198398" v="1.149091,1.149091" e="elastic 0.2750772 1.0 0.14296028 0.287691" />
+            <kf t="0.000854" v="0.005091,0.005091" />
+          </scale>
+        </transform>
+        <fillColor value="#ff9f2382" />
+        <content>HAPPY WOMEN'S DAY</content>
+      </text>
+      <nullobj id="101" label="Rỗng 1" startTime="0" endTime="9365" mediaFillMode="fill" type="perspective">
+        <transform>
+          <location>
+            <kf t="0.000854" v="1233.702637,900.149536,0.000000" />
+            <kf t="0.999253" v="1233.702637,313.749146,0.000000" />
+          </location>
+        </transform>
+      </nullobj>
+      <text id="102" startTime="800" endTime="9365" fillType="color" mediaFillMode="fill" parent="101" size="18.000000" font="googlefonts?name=Bangers&amp;weight=400" wrapWidth="1435" align="center">
+        <transform>
+          <location value="0.000000,337.972137,0.000000" />
+          <scale value="1.237631,1.237631" />
+        </transform>
+        <fillColor value="#ff77239f" />
+        <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+          <property name="inTime" type="float" value="0.800000" />
+          <property name="outTime" type="float" value="0.000000" />
+        </effect>
+        <border direction="outside" id="1">
+          <color value="#ffffd4f5" />
+          <size value="10.000000" />
+        </border>
+        <content>CHÚC NHỮNG NGƯỜI PHỤ NỮ TUYỆT VỜI</content>
+      </text>
+      <text id="103" label="CHÚC NHỮNG NGƯỜI PHỤ NỮ TUYỆT VỜI Copy" startTime="2116" endTime="9365" fillType="color" mediaFillMode="fill" parent="101" size="18.000000" font="googlefonts?name=Bangers&amp;weight=400" wrapWidth="1435" align="center">
+        <transform>
+          <location value="0.000000,433.472137,0.000000" />
+          <scale value="1.237631,1.237631" />
+        </transform>
+        <fillColor value="#ff77239f" />
+        <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+          <property name="inTime" type="float" value="0.800000" />
+          <property name="outTime" type="float" value="0.000000" />
+        </effect>
+        <border direction="outside" id="1">
+          <color value="#ffffd4f5" />
+          <size value="10.000000" />
+        </border>
+        <content>Đang xem clip này</content>
+      </text>
+      <text id="104" label="CHÚC NHỮNG NGƯỜI PHỤ NỮ TUYỆT VỜI Copy 2" startTime="3550" endTime="9365" fillType="color" mediaFillMode="fill" parent="101" size="18.000000" font="googlefonts?name=Bangers&amp;weight=400" wrapWidth="1435" align="center">
+        <transform>
+          <location value="0.000000,535.818848,0.000000" />
+          <scale value="1.237631,1.237631" />
+        </transform>
+        <fillColor value="#ff77239f" />
+        <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+          <property name="inTime" type="float" value="0.800000" />
+          <property name="outTime" type="float" value="0.000000" />
+        </effect>
+        <border direction="outside" id="1">
+          <color value="#ffffd4f5" />
+          <size value="10.000000" />
+        </border>
+        <content>sẽ luôn toả sáng</content>
+      </text>
+      <text id="105" label="CHÚC NHỮNG NGƯỜI PHỤ NỮ TUYỆT VỜI Copy 3" startTime="5133" endTime="9365" fillType="color" mediaFillMode="fill" parent="101" size="18.000000" font="googlefonts?name=Bangers&amp;weight=400" wrapWidth="1435" align="center">
+        <transform>
+          <location value="0.000000,625.269043,0.000000" />
+          <scale value="1.237631,1.237631" />
+        </transform>
+        <fillColor value="#ff77239f" />
+        <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+          <property name="inTime" type="float" value="0.800000" />
+          <property name="outTime" type="float" value="0.000000" />
+        </effect>
+        <border direction="outside" id="1">
+          <color value="#ffffd4f5" />
+          <size value="10.000000" />
+        </border>
+        <content>như</content>
+      </text>
+      <text id="106" label="CHÚC NHỮNG NGƯỜI PHỤ NỮ TUYỆT VỜI Copy 4" startTime="6933" endTime="9365" fillType="color" mediaFillMode="fill" parent="101" size="18.000000" font="googlefonts?name=Bangers&amp;weight=400" wrapWidth="1435" align="center">
+        <transform>
+          <location value="0.000000,716.420410,0.000000" />
+          <scale value="1.237631,1.237631" />
+        </transform>
+        <fillColor value="#ffff5ad9" />
+        <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+          <property name="inTime" type="float" value="0.800000" />
+          <property name="outTime" type="float" value="0.000000" />
+        </effect>
+        <border direction="outside" id="1">
+          <color value="#ffffd4f5" />
+          <size value="10.000000" />
+        </border>
+        <content>như</content>
+      </text>
+    </scene>
+  </embedScene>
+  <shape id="167" tag="+yellow" label="Mặt bàn.png" startTime="9366" endTime="17649" fillType="media" fillImage="content://media/external/images/media/1000001193" mediaFillMode="fill" parent="168" s=".rect">
+    <transform>
+      <scale value="1.333333,1.333333" />
+    </transform>
+    <property name="size" type="vec2" value="720.000000,405.000000" />
+  </shape>
+  <nullobj id="168" startTime="9366" endTime="17649" mediaFillMode="fill" parent="169" type="perspective">
+    <transform>
+      <location>
+        <kf t="0.001087" v="890.316040,-65.407227,0.000000" />
+        <kf t="0.210310" v="366.016235,-71.000000,0.000000" e="cubicBezier 0.0 0.0 0.58 1.0" />
+        <kf t="0.403477" v="366.016235,-71.000000,0.000000" />
+        <kf t="0.999034" v="-493.415009,143.234589,0.000000" e="cubicBezier 0.3347619 0.0 0.3572377 1.0" />
+      </location>
+      <scale>
+        <kf t="0.001087" v="1.840000,1.840000" />
+        <kf t="0.210310" v="1.960000,1.960000" e="cubicBezier 0.0 0.0 0.58 1.0" />
+        <kf t="0.403477" v="1.960000,1.960000" />
+        <kf t="0.999034" v="1.420000,1.420000" e="cubicBezier 0.33 0.0 0.36 1.0" />
+      </scale>
+      <rotation>
+        <kf t="0.403477" v="0.000000" />
+        <kf t="0.999034" v="-15.365845" e="cubicBezier 0.33 0.0 0.36 1.0" />
+      </rotation>
+    </transform>
+  </nullobj>
+  <nullobj id="169" startTime="9366" endTime="17649" mediaFillMode="fill" type="perspective">
+    <transform>
+      <location>
+        <kf t="0.151998" v="720.000000,540.000000,0.000000" />
+        <kf t="0.518170" v="480.772461,540.000000,0.000000" e="cubicBezier 0.42 0.0 0.58 1.0" />
+        <kf t="0.773753" v="480.772461,540.000000,0.000000" />
+      </location>
+      <scale>
+        <kf t="0.151998" v="1.000000,1.000000" />
+        <kf t="0.518170" v="1.280000,1.280000" e="cubicBezier 0.42 0.0 0.58 1.0" />
+        <kf t="0.773753" v="1.280000,1.280000" />
+      </scale>
+      <rotation>
+        <kf t="0.518170" v="3.292683" e="cubicBezier 0.42 0.0 0.58 1.0" />
+        <kf t="0.151998" v="-4.390259" />
+        <kf t="0.773753" v="3.292683" />
+      </rotation>
+    </transform>
+  </nullobj>
+  <shape id="170" startTime="9366" endTime="17649" fillType="color" mediaFillMode="fill" parent="168" s=".rect">
+    <transform>
+      <location value="-310.909180,35.977173,-20.150391" />
+      <scale value="0.677778,0.677778" />
+      <rotation value="20.853659" />
+    </transform>
+    <shadow direction="outside">
+      <opacity value="0.650000" />
+      <size value="7.000000" />
+      <offset value="8.000000,18.000000" />
+    </shadow>
+    <property name="size" type="vec2" value="208.000000,270.000000" />
+  </shape>
+  <shape id="171" startTime="9366" endTime="17649" fillType="color" mediaFillMode="fill" parent="168" s=".rect">
+    <transform>
+      <location value="-74.508789,35.977173,0.000000" />
+      <scale value="0.677778,0.677778" />
+    </transform>
+    <property name="size" type="vec2" value="208.000000,270.000000" />
+  </shape>
+  <shape id="172" startTime="9366" endTime="17649" fillType="color" mediaFillMode="fill" parent="168" s=".rect">
+    <transform>
+      <location value="505.220856,-20.277861,0.000000" />
+      <pivot value="-30.198231,30.681471" />
+      <scale value="0.677778,0.677778" />
+    </transform>
+    <effect id="com.alightcreative.effects.roughenedges" locallyApplied="true">
+      <property name="strength" type="float" value="0.360000" />
+      <property name="evolution" type="float" value="0.000000" />
+      <property name="detail" type="float" value="1.000000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="octaves" type="float" value="6.000000" />
+    </effect>
+    <shadow direction="outside">
+      <opacity value="0.470000" />
+      <size value="10.000000" />
+      <offset value="21.000000,34.000000" />
+    </shadow>
+    <property name="size" type="vec2" value="353.000000,270.000000" />
+  </shape>
+  <shape id="173" tag="+ruby" label="ảnh" startTime="9366" endTime="17649" fillType="media" fillImage="content://media/external/images/media/1000001981" mediaFillMode="fill" parent="170" s=".rect">
+    <transform>
+      <scale value="0.443518,0.443518" />
+    </transform>
+    <property name="size" type="vec2" value="432.000000,540.000000" />
+  </shape>
+  <shape id="174" tag="+ruby" label="ảnh" startTime="9366" endTime="17649" fillType="media" fillImage="content://media/external/images/media/1000001981" mediaFillMode="fill" parent="171" s=".rect">
+    <transform>
+      <scale value="0.443518,0.443518" />
+    </transform>
+    <property name="size" type="vec2" value="432.000000,540.000000" />
+  </shape>
+  <shape id="175" tag="+ruby" label="ảnh " startTime="9366" endTime="17649" fillType="media" fillImage="content://media/external/images/media/1000001981" mediaFillMode="fill" parent="172" s=".rect">
+    <transform>
+      <location value="2.762054,-0.798743,0.000000" />
+      <scale value="0.443518,0.443518" />
+    </transform>
+    <effect id="com.alightcreative.effects.roughenedges" locallyApplied="true">
+      <property name="strength" type="float" value="0.360000" />
+      <property name="evolution" type="float" value="0.000000" />
+      <property name="detail" type="float" value="1.000000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="octaves" type="float" value="6.000000" />
+    </effect>
+    <property name="size" type="vec2" value="717.000000,540.000000" />
+  </shape>
+  <text id="176" tag="+ruby" startTime="9366" endTime="17649" fillType="color" mediaFillMode="fill" parent="168" size="48.000000" font="googlefonts?name=Bangers&amp;weight=400" wrapWidth="1336" align="center">
+    <transform>
+      <location value="496.550415,207.951111,0.000000" />
+      <scale value="0.522932,0.522932" />
+    </transform>
+    <shadow direction="outside">
+      <offset value="13.000000,14.000000" />
+    </shadow>
+    <content>THAY TÊN</content>
+  </text>
+  <shape id="177" tag="+yellow" label="bóng cây 2 overlay.mp4" startTime="9366" endTime="17650" fillType="media" blending="multiply" fillVideo="content://media/external/video/media/1000001135" outTime="4949" speed="0.599191" mediaFillMode="fill" parent="168" s=".rect">
+    <transform>
+      <location value="-242.115814,21.767971,-160.049805" />
+      <scale value="0.677778,0.677778" />
+      <rotation value="-1.097565" />
+    </transform>
+    <effect id="com.alightcreative.effects.repeat" locallyApplied="true">
+      <property name="count" type="float" value="2.000000" />
+      <property name="time" type="float" value="0.000000" />
+      <property name="offset" type="vec2" value="709.000000,-21.000000" />
+      <property name="angle" type="float" value="180.000000" />
+      <property name="scale" type="float" value="1.000000" />
+      <property name="alpha" type="float" value="1.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.gaussianblur" locallyApplied="true">
+      <property name="strength" type="float" value="0.430000" />
+    </effect>
+    <property name="size" type="vec2" value="720.000000,405.000000" />
+  </shape>
+  <embedScene id="178" startTime="9366" endTime="17649" fillType="intrinsic" outTime="8283" mediaFillMode="fill">
+    <transform>
+      <location value="719.506470,878.359253,-373.252930" />
+      <scale value="0.528785,0.528785" />
+    </transform>
+    <fillColor value="#ff000000" />
+    <shadow direction="outside" />
+    <scene title="" width="1440" height="1080" exportWidth="1440" exportHeight="1080" precompose="dynamicResolution" bgcolor="#00000000" totalTime="8283" fps="60" modifiedTime="0" amver="1002351" ffver="106" am="com.alightcreative.motioo/5.0.270.1002578" amplatform="android" retime="off" retimeAdaptFPS="false">
+      <embedScene id="135" label="Nhóm 1" startTime="0" endTime="8283" fillType="intrinsic" outTime="8283" mediaFillMode="fill">
+        <transform>
+          <location value="720.000000,540.000000,0.000000" />
+        </transform>
+        <fillColor value="#ff000000" />
+        <scene title="" width="1440" height="1080" exportWidth="1440" exportHeight="1080" precompose="dynamicResolution" bgcolor="#00000000" totalTime="8283" fps="60" modifiedTime="0" amver="1002351" ffver="106" am="com.alightcreative.motioo/5.0.270.1002578" amplatform="android" retime="off" retimeAdaptFPS="false">
+          <text id="133" startTime="0" endTime="4299" fillType="color" mediaFillMode="fill" size="16.000000" font="googlefonts?name=Montserrat&amp;weight=200&amp;italic=1" wrapWidth="1407" align="center">
+            <transform>
+              <location value="720.000000,540.000000,0.000000" />
+            </transform>
+            <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+              <property name="inTime" type="float" value="0.900000" />
+              <property name="outTime" type="float" value="0.900000" />
+            </effect>
+            <shadow direction="outside" />
+            <content>- Như muôn vì tinh tú em lấp lánh trên bầu trời rộng lớn -</content>
+          </text>
+          <text id="134" label="- Như muôn vì tinh tú em lấp lánh trên bầu trời rộng lớn - Copy" startTime="4284" endTime="8283" fillType="color" mediaFillMode="fill" size="18.000000" font="googlefonts?name=Montserrat&amp;weight=200&amp;italic=1" wrapWidth="1407" align="center">
+            <transform>
+              <location value="720.000000,540.000000,0.000000" />
+            </transform>
+            <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+              <property name="inTime" type="float" value="0.900000" />
+              <property name="outTime" type="float" value="0.900000" />
+            </effect>
+            <shadow direction="outside" />
+            <content>- Em chưa bao giờ quên đi mất rằng mình là ai -</content>
+          </text>
+        </scene>
+      </embedScene>
+      <embedScene id="136" label="Nhóm 1 Copy" startTime="0" endTime="8283" fillType="intrinsic" blending="linear-dodge" outTime="8283" mediaFillMode="fill">
+        <transform>
+          <location value="720.000000,540.000000,0.000000" />
+        </transform>
+        <fillColor value="#ff000000" />
+        <effect id="com.alightcreative.effects.gaussianblur" locallyApplied="true">
+          <property name="strength" type="float" value="0.150000" />
+        </effect>
+        <scene title="" width="1440" height="1080" exportWidth="1440" exportHeight="1080" precompose="dynamicResolution" bgcolor="#00000000" totalTime="8283" fps="60" modifiedTime="0" amver="1002351" ffver="106" am="com.alightcreative.motioo/5.0.270.1002578" amplatform="android" retime="off" retimeAdaptFPS="false">
+          <text id="133" startTime="0" endTime="4299" fillType="color" mediaFillMode="fill" size="16.000000" font="googlefonts?name=Montserrat&amp;weight=200&amp;italic=1" wrapWidth="1407" align="center">
+            <transform>
+              <location value="720.000000,540.000000,0.000000" />
+            </transform>
+            <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+              <property name="inTime" type="float" value="0.900000" />
+              <property name="outTime" type="float" value="0.900000" />
+            </effect>
+            <shadow direction="outside" />
+            <content>- Như muôn vì tinh tú em lấp lánh trên bầu trời rộng lớn -</content>
+          </text>
+          <text id="134" label="- Như muôn vì tinh tú em lấp lánh trên bầu trời rộng lớn - Copy" startTime="4284" endTime="8283" fillType="color" mediaFillMode="fill" size="18.000000" font="googlefonts?name=Montserrat&amp;weight=200&amp;italic=1" wrapWidth="1407" align="center">
+            <transform>
+              <location value="720.000000,540.000000,0.000000" />
+            </transform>
+            <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+              <property name="inTime" type="float" value="0.900000" />
+              <property name="outTime" type="float" value="0.900000" />
+            </effect>
+            <shadow direction="outside" />
+            <content>- Em chưa bao giờ quên đi mất rằng mình là ai -</content>
+          </text>
+        </scene>
+      </embedScene>
+      <embedScene id="139" label="Nhóm 1 Copy 3" startTime="0" endTime="8283" fillType="intrinsic" blending="linear-dodge" outTime="8283" mediaFillMode="fill">
+        <transform>
+          <location value="720.000000,540.000000,0.000000" />
+        </transform>
+        <fillColor value="#ff000000" />
+        <effect id="com.alightcreative.effects.gaussianblur" locallyApplied="true">
+          <property name="strength" type="float" value="0.150000" />
+        </effect>
+        <scene title="" width="1440" height="1080" exportWidth="1440" exportHeight="1080" precompose="dynamicResolution" bgcolor="#00000000" totalTime="8283" fps="60" modifiedTime="0" amver="1002351" ffver="106" am="com.alightcreative.motioo/5.0.270.1002578" amplatform="android" retime="off" retimeAdaptFPS="false">
+          <text id="133" startTime="0" endTime="4299" fillType="color" mediaFillMode="fill" size="16.000000" font="googlefonts?name=Montserrat&amp;weight=200&amp;italic=1" wrapWidth="1407" align="center">
+            <transform>
+              <location value="720.000000,540.000000,0.000000" />
+            </transform>
+            <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+              <property name="inTime" type="float" value="0.900000" />
+              <property name="outTime" type="float" value="0.900000" />
+            </effect>
+            <shadow direction="outside" />
+            <content>- Như muôn vì tinh tú em lấp lánh trên bầu trời rộng lớn -</content>
+          </text>
+          <text id="134" label="- Như muôn vì tinh tú em lấp lánh trên bầu trời rộng lớn - Copy" startTime="4284" endTime="8283" fillType="color" mediaFillMode="fill" size="18.000000" font="googlefonts?name=Montserrat&amp;weight=200&amp;italic=1" wrapWidth="1407" align="center">
+            <transform>
+              <location value="720.000000,540.000000,0.000000" />
+            </transform>
+            <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+              <property name="inTime" type="float" value="0.900000" />
+              <property name="outTime" type="float" value="0.900000" />
+            </effect>
+            <shadow direction="outside" />
+            <content>- Em chưa bao giờ quên đi mất rằng mình là ai -</content>
+          </text>
+        </scene>
+      </embedScene>
+      <embedScene id="140" label="Nhóm 1 Copy 4" startTime="0" endTime="8283" fillType="intrinsic" blending="linear-dodge" outTime="8283" mediaFillMode="fill">
+        <transform>
+          <location value="720.000000,540.000000,0.000000" />
+        </transform>
+        <fillColor value="#ff000000" />
+        <effect id="com.alightcreative.effects.gaussianblur" locallyApplied="true">
+          <property name="strength" type="float" value="0.150000" />
+        </effect>
+        <scene title="" width="1440" height="1080" exportWidth="1440" exportHeight="1080" precompose="dynamicResolution" bgcolor="#00000000" totalTime="8283" fps="60" modifiedTime="0" amver="1002351" ffver="106" am="com.alightcreative.motioo/5.0.270.1002578" amplatform="android" retime="off" retimeAdaptFPS="false">
+          <text id="133" startTime="0" endTime="4299" fillType="color" mediaFillMode="fill" size="16.000000" font="googlefonts?name=Montserrat&amp;weight=200&amp;italic=1" wrapWidth="1407" align="center">
+            <transform>
+              <location value="720.000000,540.000000,0.000000" />
+            </transform>
+            <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+              <property name="inTime" type="float" value="0.900000" />
+              <property name="outTime" type="float" value="0.900000" />
+            </effect>
+            <shadow direction="outside" />
+            <content>- Như muôn vì tinh tú em lấp lánh trên bầu trời rộng lớn -</content>
+          </text>
+          <text id="134" label="- Như muôn vì tinh tú em lấp lánh trên bầu trời rộng lớn - Copy" startTime="4284" endTime="8283" fillType="color" mediaFillMode="fill" size="18.000000" font="googlefonts?name=Montserrat&amp;weight=200&amp;italic=1" wrapWidth="1407" align="center">
+            <transform>
+              <location value="720.000000,540.000000,0.000000" />
+            </transform>
+            <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+              <property name="inTime" type="float" value="0.900000" />
+              <property name="outTime" type="float" value="0.900000" />
+            </effect>
+            <shadow direction="outside" />
+            <content>- Em chưa bao giờ quên đi mất rằng mình là ai -</content>
+          </text>
+        </scene>
+      </embedScene>
+      <embedScene id="137" label="Nhóm 1 Copy 2" startTime="0" endTime="8283" fillType="intrinsic" blending="linear-dodge" outTime="8283" mediaFillMode="fill">
+        <transform>
+          <location value="720.000000,540.000000,0.000000" />
+        </transform>
+        <fillColor value="#ff000000" />
+        <effect id="com.alightcreative.effects.gaussianblur" locallyApplied="true">
+          <property name="strength" type="float" value="0.460000" />
+        </effect>
+        <scene title="" width="1440" height="1080" exportWidth="1440" exportHeight="1080" precompose="dynamicResolution" bgcolor="#00000000" totalTime="8283" fps="60" modifiedTime="0" amver="1002351" ffver="106" am="com.alightcreative.motioo/5.0.270.1002578" amplatform="android" retime="off" retimeAdaptFPS="false">
+          <text id="133" startTime="0" endTime="4299" fillType="color" mediaFillMode="fill" size="16.000000" font="googlefonts?name=Montserrat&amp;weight=200&amp;italic=1" wrapWidth="1407" align="center">
+            <transform>
+              <location value="720.000000,540.000000,0.000000" />
+            </transform>
+            <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+              <property name="inTime" type="float" value="0.900000" />
+              <property name="outTime" type="float" value="0.900000" />
+            </effect>
+            <shadow direction="outside" />
+            <content>- Như muôn vì tinh tú em lấp lánh trên bầu trời rộng lớn -</content>
+          </text>
+          <text id="134" label="- Như muôn vì tinh tú em lấp lánh trên bầu trời rộng lớn - Copy" startTime="4284" endTime="8283" fillType="color" mediaFillMode="fill" size="18.000000" font="googlefonts?name=Montserrat&amp;weight=200&amp;italic=1" wrapWidth="1407" align="center">
+            <transform>
+              <location value="720.000000,540.000000,0.000000" />
+            </transform>
+            <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+              <property name="inTime" type="float" value="0.900000" />
+              <property name="outTime" type="float" value="0.900000" />
+            </effect>
+            <shadow direction="outside" />
+            <content>- Em chưa bao giờ quên đi mất rằng mình là ai -</content>
+          </text>
+        </scene>
+      </embedScene>
+    </scene>
+  </embedScene>
+  <shape id="179" startTime="9366" endTime="17649" fillType="color" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="720.000000,532.705200,-114.900383" />
+      <scale value="0.901851,0.901851" />
+    </transform>
+    <fillColor value="#ff3fa9e9" />
+    <effect id="com.alightcreative.effects.lift" locallyApplied="true">
+      <property name="fill" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.vignette" locallyApplied="true">
+      <property name="scale" type="float" value="0.782000" />
+      <property name="roundness" type="float" value="1.500000" />
+      <property name="feather" type="float" value="0.500000" />
+      <property name="strength" type="float" value="0.800000" />
+      <property name="tint" type="float" value="1.000000" />
+      <property name="overlaycolor" type="color" value="#ff000000" />
+      <property name="punchout" type="bool" value="false" />
+    </effect>
+    <property name="size" type="vec2" value="3296.000000,578.000000" />
+  </shape>
+  <shape id="180" startTime="0" endTime="9365" fillType="color" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="720.000000,532.705200,-114.900383" />
+      <scale value="1.177658,1.177658" />
+    </transform>
+    <fillColor value="#ff3fa9e9" />
+    <effect id="com.alightcreative.effects.lift" locallyApplied="true">
+      <property name="fill" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.vignette" locallyApplied="true">
+      <property name="scale" type="float" value="0.782000" />
+      <property name="roundness" type="float" value="1.500000" />
+      <property name="feather" type="float" value="1.000000" />
+      <property name="strength" type="float" value="0.800000" />
+      <property name="tint" type="float" value="1.000000" />
+      <property name="overlaycolor" type="color" value="#ffffffff" />
+      <property name="punchout" type="bool" value="false" />
+    </effect>
+    <property name="size" type="vec2" value="743.000000,578.000000" />
+  </shape>
+  <embedScene id="181" label="Nhóm 1" startTime="8466" endTime="10066" fillType="intrinsic" mediaFillMode="fill">
+    <transform>
+      <location value="720.000000,540.000000,-356.670898" />
+      <scale value="0.748810,0.748810" />
+      <opacity>
+        <kf t="0.568125" v="1.000000" />
+        <kf t="0.995000" v="0.000000" />
+      </opacity>
+    </transform>
+    <fillColor value="#ff000000" />
+    <scene title="" width="1891" height="1891" exportWidth="1891" exportHeight="1891" precompose="dynamicResolution" bgcolor="#00000000" totalTime="1600" fps="60" modifiedTime="0" amver="1002351" ffver="106" am="com.alightcreative.motioo/5.0.270.1002578" amplatform="android" retime="off" retimeAdaptFPS="false">
+      <shape id="144" label="Vòng tròn 1" startTime="0" endTime="916" fillType="color" mediaFillMode="fill" s=".circle">
+        <transform>
+          <location value="945.500000,945.500000,0.000000" />
+          <scale>
+            <kf t="0.009825" v="0.000000,0.000000" />
+            <kf t="0.864629" v="9.455000,9.455000" />
+          </scale>
+        </transform>
+        <fillColor value="#ffff5ad9" />
+        <property name="size" type="vec2" value="100.000000,100.000000" />
+      </shape>
+      <shape id="145" label="Vòng tròn 1 Copy" startTime="234" endTime="916" fillType="color" speed="1.414159" mediaFillMode="fill" s=".circle">
+        <transform>
+          <location value="945.500000,945.500000,0.000000" />
+          <scale>
+            <kf t="0.009332" v="0.000000,0.000000" />
+            <kf t="0.821188" v="9.455000,9.455000" />
+          </scale>
+        </transform>
+        <fillColor value="#ff17e1e1" />
+        <property name="size" type="vec2" value="100.000000,100.000000" />
+      </shape>
+      <shape id="146" label="Vòng tròn 1 Copy 2" startTime="467" endTime="1600" fillType="color" speed="1.775555" mediaFillMode="fill" s=".circle">
+        <transform>
+          <location value="945.500000,945.500000,0.000000" />
+          <scale>
+            <kf t="0.004474" v="0.000000,0.000000" />
+            <kf t="0.393696" v="9.455000,9.455000" />
+          </scale>
+        </transform>
+        <property name="size" type="vec2" value="100.000000,100.000000" />
+      </shape>
+    </scene>
+  </embedScene>
+</scene>
